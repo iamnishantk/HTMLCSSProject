@@ -109,11 +109,11 @@ p {
   Index
   ===========
 */
-.index-header{
+.index-header {
   min-height: 100vh;
   background: var(--mainWhite);
-  color:goldenrod;
-  
+  color: goldenrod;
+
   display: grid;
   align-items: center;
   justify-items: center;
@@ -182,7 +182,6 @@ p {
 }
 .cards {
   padding: 4rem 0;
-  
 }
 .cards-center {
   width: 80vw;
